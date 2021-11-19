@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace DdJ\WeightUnitsExtend\Model\Config\Source;
+namespace DHSServices\WeightUnitsExtend\Model\Config\Source;
 
 /**
  * Options provider for weight units list

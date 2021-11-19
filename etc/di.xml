@@ -6,5 +6,5 @@
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
-    <preference for="Magento\Directory\Model\Config\Source\WeightUnit" type="DdJ\WeightUnitsExtend\Model\Config\Source\WeightUnit" />
+    <preference for="Magento\Directory\Model\Config\Source\WeightUnit" type="DHSServices\WeightUnitsExtend\Model\Config\Source\WeightUnit" />
 </config>
