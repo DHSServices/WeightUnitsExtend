@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Copyright 2021 DHS Services BV All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magento\Directory\Model\Config\Source\WeightUnit" type="DdJ\WeightUnitsExtend\Model\Config\Source\WeightUnit" />
+</config>
